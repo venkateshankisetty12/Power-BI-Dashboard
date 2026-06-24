@@ -17,3 +17,11 @@ This project presents an interactive Power BI dashboard analyzing how Artificial
 - Which industries are most affected by AI automation?
 
 Dashboard interaction <a href = "https://github.com/venkateshankisetty12/Power-BI-Dashboard/blob/main/Screenshot_18-6-2026_121730_.jpeg">View Dashboard</a>
+
+## Process
+- Defined the objective to analyze the impact of AI on jobs focusing on automation risk, salary trends, and future demand.
+- Collected and cleaned the dataset using Power Query by handling null values, correcting data types, and renaming columns.
+- Transformed the data by creating new fields like experience groups and automation categories for better analysis.
+- Built KPIs using DAX to measure metrics such as high-risk jobs percentage, salary insights, and skill demand.
+- Developed interactive visualizations in Power BI including bar charts, line charts, scatter plots, and KPI cards.
+- Designed the dashboard with proper layout, filters, and storytelling to deliver meaningful business insights.
