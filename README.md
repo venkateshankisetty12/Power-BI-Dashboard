@@ -25,3 +25,8 @@ Dashboard interaction <a href = "https://github.com/venkateshankisetty12/Power-B
 - Built KPIs using DAX to measure metrics such as high-risk jobs percentage, salary insights, and skill demand.
 - Developed interactive visualizations in Power BI including bar charts, line charts, scatter plots, and KPI cards.
 - Designed the dashboard with proper layout, filters, and storytelling to deliver meaningful business insights.
+
+## Dashboard
+
+<a href = "https://github.com/venkateshankisetty12/Power-BI-Dashboard/blob/main/Screenshot_18-6-2026_121730_.jpeg">Screenshot</a>
+
